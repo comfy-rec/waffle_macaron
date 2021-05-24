@@ -20,7 +20,7 @@
    
     histogram
 
-## 3. model sellection & training
+## 3. model selection & training
 
     sgd classifier
    
