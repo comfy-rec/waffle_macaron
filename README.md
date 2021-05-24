@@ -1,33 +1,33 @@
 # supervised learning
 
-1. data collection
+## 1. data collection
 
-   21 class 음식 images 1000장 data collection (kaggle)
+    21 class 음식 images 1000장 data collection (kaggle)
    
-   waffle, macaron 2 class selection
+    waffle, macaron 2 class selection
    
-2. data analysis & preprocessing
+## 2. data analysis & preprocessing
 
-   다양한 형태의 image data, size, byte 다름
+    다양한 형태의 image data, size, byte 다름
    
-   color 3channel, gray scale
+    color 3channel, gray scale
 
-   image size resize
+    image size resize
    
-   data split - train data, test data
+    data split - train data, test data
    
-   image flatten
+    image flatten
    
-   histogram
+    histogram
 
-3. model sellection & training
+## 3. model sellection & training
 
-   sgd classifier
+    sgd classifier
    
-   svm (poly, rbf(radial basis function)(gaussian), sigmoid)
+    svm (poly, rbf(radial basis function)(gaussian), sigmoid)
 
-   decision tree classifier
+    decision tree classifier
 
-   multi layer perceptron
+    multi layer perceptron
    
-   validation, voting, adam, precision, recall
+    validation, voting, adam, precision, recall
