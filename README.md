@@ -1,5 +1,19 @@
 # supervised learning
 
+## 0. requirements
+
+    graphviz 2.38  
+    jupyter 1.0.0  
+    matplotlib 3.3.4  
+    notebook 6.3.0  
+    numpy 1.20.1  
+    opencv-python 4.5.2.52  
+    pandas 1.2.4  
+    python-graphviz 0.16  
+    python 3.9.4  
+    scikit-learn 0.24.1  
+    anaconda 3
+
 ## 1. data collection
 
     21 class 음식 images 1000장 data collection (kaggle)
@@ -19,8 +33,14 @@
     image flatten
    
     histogram
+    
+## 3. datasets
 
-## 3. model selection & training
+    train - 
+    
+    test - 
+
+## 4. model selection & training
 
     sgd classifier
    
