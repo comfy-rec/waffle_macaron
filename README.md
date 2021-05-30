@@ -1,4 +1,4 @@
-# supervised learning
+# waffle macaron classification
 
 ## 0. requirements
 
