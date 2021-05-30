@@ -4,6 +4,7 @@
 
     graphviz 2.38  
     jupyter 1.0.0  
+    keras 2.2.4
     matplotlib 3.3.4  
     notebook 6.3.0  
     numpy 1.20.1  
@@ -26,7 +27,7 @@
    
     color 3channel, gray scale
 
-    image size resize
+    image size resize (50 x 50)
    
     data split - train data, test data
    
@@ -36,9 +37,9 @@
     
 ## 3. datasets
 
-    train - 
+    train - 800 images, 2 classes
     
-    test - 
+    test - 200 images, 2 classes
 
 ## 4. model selection & training
 
